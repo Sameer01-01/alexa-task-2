@@ -1,0 +1,16 @@
+{
+    "university": {
+      "name": "SRM University",
+      "departments": {
+        "ComputerScience": {
+          "professors": ["prof 1", "prof 2"],
+          "students": ["hehe", "lol"]
+        },
+        "Mathematics": {
+          "professors": ["prof 3"],
+          "students": ["lmao", "woohooo"]
+        }
+      }
+    }
+  }
+  

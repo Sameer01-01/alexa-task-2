@@ -1,0 +1,26 @@
+{
+  "university": {
+    "name": "Tech University",
+    "departments": {
+      "ComputerScience": {
+        "professors": [
+          "Dr. Smith",
+          "Dr. Johnson"
+        ],
+        "students": [
+          "Alice",
+          null
+        ]
+      },
+      "Mathematics": {
+        "professors": [
+          "Dr. Allen Jr."
+        ],
+        "students": [
+          "Charlie",
+          "Daisy"
+        ]
+      }
+    }
+  }
+}
